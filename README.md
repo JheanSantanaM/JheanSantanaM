@@ -1,4 +1,4 @@
-# Olá, eu sou Jhean 👋
+# Olá, meu nome é Jhean 👋
 
 💻 Desenvolvedor em formação
 
